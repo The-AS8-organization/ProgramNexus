@@ -8,12 +8,7 @@ designed to make learning resources available to anybody on a single platform.
 
 <br>
 
-# Structure
-ProgramNexus has two different sections.
-- ### Database & Analytics site for admins
-    Maintaining a resourceful database is nowadays crucial for the development of an organization. But only database management isn't sufficient for that purpose. We need to represent them with proper analytics. There is so much going on in the background of such operations. That's why 'The AS8 Organization' took the initiative of creating a database management application that will help them to achieve their goals.
-
-- ### Resources site for learners
+# Website Structure
     We will also develop an resources site which will contain all the learning materials (video tutorials, courses, audio tutorials, presentation files, blogs, articles, text-based tutorials, problem-sets etc.) Learners can access all the resources just by signing up in the platform. They can even get certificates if they complete specific problem-set.
 
 <br>
